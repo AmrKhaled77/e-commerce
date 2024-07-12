@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573418051782",
+    "project_id": "frooty-app",
+    "storage_bucket": "frooty-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573418051782:android:76c585e0d6730695321fc7",
+        "android_client_info": {
+          "package_name": "com.example.frooty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSW5Iz7-3oScOZmn6aX5BEKwCh5Sp6NOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
